@@ -28,7 +28,7 @@ The program is use to get doamin information that waf,subdomain,ip,Zone Transfer
 
 ### 例子
 
-![image](https://github.com/latentgod/domainInfo/example.png)
+![image](https://github.com/latentgod/domainInfo/blob/master/example.png)
 
 说明：(当给出分享到github时，http://whatweb.bugscaner.com/ 因为些原因关闭了，相信不久会开启的，感谢站长)
 
